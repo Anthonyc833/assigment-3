@@ -1,0 +1,2 @@
+this folder is ment to be the virtual enviroment that has been used with pycharm the imports needed are 
+shown on the py script itself
